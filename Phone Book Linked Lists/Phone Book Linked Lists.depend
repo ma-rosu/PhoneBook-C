@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682522138 source:d:\c projects\phone book linked lists\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
